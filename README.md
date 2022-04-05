@@ -1,0 +1,2 @@
+# umi_webpack_versiontxt
+umi_webpack_versiontxt
