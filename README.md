@@ -1,7 +1,8 @@
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
-
+# 版本号
+dist/version.txt
 ## Environment Prepare
 
 Install `node_modules`:
